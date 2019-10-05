@@ -2,7 +2,9 @@
 
 All Utility Projects Developed Using Python 🐍 
 
-# 1. Process Monitor (Freelancing Project)
+# 1. Process Monitor (プロセスモニター)
+<b>Freelancing Project</b>
+
 ```python3 ProcessMonitor.py --help```
 
 <b>Output:</b>
