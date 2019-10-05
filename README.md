@@ -16,9 +16,9 @@ optional arguments:
 -h, --help            show this help message and exit
 -c COLUMNS, --columns COLUMNS
                         Columns To Show, Available Are name, create_time, cores,
-                        cpu_usage, status, process_priority, memory_usage,read_b
-                        ytes, write_bytes, total_threads, username. Default: nam
-                        e, cpu_usage, memory_usage, read_bytes, write_bytes, sta
+                        cpu_usage, status, process_priority, memory_usage, read_
+                        bytes, write_bytes, total_threads, username. Default: na
+                        me, cpu_usage, memory_usage, read_bytes, write_bytes, sta
                         tus, create_time, process_priority, total_threads, cores.
 -s SORT_BY, --sort-by SORT_BY
                         Column to sort by, default is memory_usage .
