@@ -20,6 +20,8 @@ Icon
 
 # Secret Python files
 credentials.py
+batch_file_execution.bat
+sample.txt
 
 # Files that might appear in the root of a volume
 .DocumentRevisions-V100
